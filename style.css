@@ -32,6 +32,7 @@ body{
 
 .header .nav .button img{
     width: 20px;
+    height: 2px;
 }
 
 /* .header .button button{
